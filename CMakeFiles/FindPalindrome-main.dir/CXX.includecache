@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mahya/Desktop/ECE0302/Projects/P2/FindPalindrome.cpp
+string
+-
+vector
+-
+iostream
+-
+locale
+-
+bits/stdc++.h
+-
+FindPalindrome.hpp
+/home/mahya/Desktop/ECE0302/Projects/P2/FindPalindrome.hpp
+
+/home/mahya/Desktop/ECE0302/Projects/P2/FindPalindrome.hpp
+string
+-
+vector
+-
+
